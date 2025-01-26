@@ -1,0 +1,74 @@
+{
+    "product":[
+        {
+            "id":1,
+            "name":"samsung m40",
+            "color":"black",
+            "price":15000,
+            "category": "Mobile",
+            "brand":"samsung",
+            "photo":"https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fG1vYmlsZSUyMHBob25lfGVufDB8fDB8fHww"
+
+        },
+        {
+            "id":2,
+            "name":"tshirt",
+            "color":"red",
+            "price":1000,
+            "category": "shirts",
+            "brand":"allensolly",
+            "photo":"https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fG1vYmlsZSUyMHBob25lfGVufDB8fDB8fHww"
+
+        },
+        {
+            "id":3,
+            "name":"shoe",
+            "color":"blue",
+            "price":5000,
+            "category": "shoes",
+            "brand":"adidas",
+            "photo":"https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fG1vYmlsZSUyMHBob25lfGVufDB8fDB8fHww"
+
+        },
+        {
+            "id":4,
+            "name":"shirt",
+            "color":"maroon",
+            "price":1500,
+            "category": "shirts",
+            "brand":"puma",
+            "photo":"https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fG1vYmlsZSUyMHBob25lfGVufDB8fDB8fHww"
+
+        },
+        {
+            "id":5,
+            "name":"pant",
+            "color":"brown",
+            "price":12500,
+            "category": "pants",
+            "brand":"nike",
+            "photo":"https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fG1vYmlsZSUyMHBob25lfGVufDB8fDB8fHww"
+
+        },
+        {
+            "id":6,
+            "name":"test",
+            "color":"something",
+            "price":12500,
+            "category": "some",
+            "brand":"nike",
+            "photo":"https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fG1vYmlsZSUyMHBob25lfGVufDB8fDB8fHww"
+
+        },
+        {
+            "id":7,
+            "name":"pt",
+            "color":"bown",
+            "price":12500,
+            "category": "pans",
+            "brand":"nike",
+            "photo":"https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fG1vYmlsZSUyMHBob25lfGVufDB8fDB8fHww"
+
+        }
+    ]
+}

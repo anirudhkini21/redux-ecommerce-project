@@ -1,0 +1,152 @@
+/* General Styles */
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.header {
+  background-color: grey;
+  height: 100px;
+}
+
+/* Cart Icon Styling */
+.cart-div {
+  float: right;
+  margin: 25px;
+  position: relative;
+}
+
+.cart-div img {
+  width: 30px;
+}
+
+.cart-div span {
+  position: relative;
+  z-index: 5;
+  background-color: yellow;
+  height: 27px;
+  width: 25px;
+  border-radius: 30%;
+  top: -25px;
+  left: 32px;
+}
+
+/* Product Grid Container */
+.product-item {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 50px;
+  margin-top: 30px;
+}
+
+/* Individual Product Box */
+.product-box {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  background-color: lightblue;
+  text-align: center;
+  margin: 6px;
+}
+
+.product-box:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+/* Product Image */
+.images {
+  height: 200px;
+  border-radius: 6px;
+}
+
+/* Product Details */
+.product-details {
+  margin-bottom: 10px;
+  font-size: 14px;
+  color: #333;
+  text-align: left;
+}
+
+/* Button Container */
+.product-buttons {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.product-buttons button {
+  padding: 8px 12px;
+  border: none;
+  border-radius: 6px;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.3s ease;
+}
+
+.product-buttons button:hover {
+  background-color: #0056b3;
+}
+
+.home{
+  float: left;
+  margin: 0;
+  padding: 20px;
+}
+
+.cart-page-container{
+  display: flex;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.cart-page-container table{
+  flex: 65%;
+  border-collapse: collapse;
+
+}
+.cart-page-container td{
+  border: 1px solid black;
+  padding: 15px;
+
+}
+
+.price-details{
+  flex: 55%;
+  margin: 0px 30px;
+}
+
+.price-details .adjust-price{
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid lightgrey;
+}
+
+.price-details .adjust-price span{
+  font-size: 20px;
+}
+
+.price-details adjust-price span{
+  font: 20px;
+}
+
+.search-box{
+  float: left;
+  padding: 25px;
+  width: 71%;
+}
+
+.search-box input{
+  width: 100%;
+  height: 30px;
+  border: 1px solid lightsalmon;
+  padding-left:10px;
+}
